@@ -1,0 +1,34 @@
+<?php
+/**
+ * SocialConnect project
+ * @author: Patsura Dmitry https://github.com/ovr <talk@dmtry.me>
+ */
+
+return array(
+    'provider' => array(
+        'Facebook' => array(
+            'applicationId' => '',
+            'applicationSecret' => '',
+            'scope' => array('email')
+        ),
+        'Twitter' => array(
+            'applicationId' => '',
+            'applicationSecret' => '',
+            'enabled' => false
+        ),
+        'Google' => array(
+            'applicationId' => '',
+            'applicationSecret' => '',
+            'enabled' => false
+        ),
+        'Vk' => array(
+            'applicationId' => '',
+            'applicationSecret' => '',
+            'scope' => array('email')
+        ),
+        'Github' => array(
+            'applicationId' => '',
+            'applicationSecret'
+        )
+    )
+);
