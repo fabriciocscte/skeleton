@@ -5,7 +5,7 @@ return array(
         'adapter' => 'Mysql',
         'host' => 'localhost',
         'username' => 'root',
-        'password' => 'vismor12',
+        'password' => 'asdfg',
         'dbname' => 'projeto',
         'options' => array(
             PDO::MYSQL_ATTR_INIT_COMMAND => 'SET NAMES utf8',
